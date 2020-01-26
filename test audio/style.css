@@ -1,0 +1,19 @@
+
+
+
+#sketch-extract {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    line-height:100px;
+    text-align: center;
+}
+
+#sketch-extract:hover {
+    background-color: azure;
+}
+
+#sketch-extract:active {
+    background-color: blue;
+}
